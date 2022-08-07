@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>http://JerickJiang.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Aug 2022 18:48:59 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://JerickJiang.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
       <title>Article1</title>
-      <link>http://example.org/posts/article1/</link>
+      <link>http://JerickJiang.github.io/posts/article1/</link>
       <pubDate>Sun, 07 Aug 2022 18:48:59 +0800</pubDate>
       
-      <guid>http://example.org/posts/article1/</guid>
+      <guid>http://JerickJiang.github.io/posts/article1/</guid>
       <description>&lt;h1 id=&#34;title&#34;&gt;title&lt;/h1&gt;
 &lt;h2 id=&#34;subtitle1&#34;&gt;subtitle1&lt;/h2&gt;
 &lt;p&gt;contents&lt;/p&gt;
